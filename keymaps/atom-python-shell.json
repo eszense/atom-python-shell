@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atom-python-shell:toggle"
+    "f5": "atom-python-shell:toggle"
   }
 }
