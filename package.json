@@ -15,6 +15,6 @@
   },
   "dependencies": {
     "xterm": "2.2.3",
-    "node-pty": "https://github.com/eszense/node-pty.git"
-  }
+    "node-pty": "0.6.1"
+  },
 }
